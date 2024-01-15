@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnginnerKennyCardenas
+- 👋 Hi, I’m @EngineerKennyCardenas
 - Mi nombre es kenny cardenas.
   - Soy profesional de la salud y me desempeño en el area de ortopedia y traumatologia
   - Me encuentro estudiando ingenieria de sistemas, ciberseguridad y hacking etico, tambien me encuentro estudiando ingles.
